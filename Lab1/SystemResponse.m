@@ -66,7 +66,3 @@ title("Bode dla d)")
 subplot(4, 2, 8);
 step(uklad_zamkniety_4);
 title("Odp skokowa dla d)");
-
-
-
-
